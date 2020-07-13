@@ -1,0 +1,25 @@
+{
+  "name": "@cardapios/client",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "yarn build && next export",
+    "netlify": "netlify",
+    "prebuild": "copyfiles -f node_modules/@cardapios/template/dist/emails/*.html public/emails",
+    "postbuild": "copyfiles -f node_modules/@cardapios/template/cypress.json . && copyfiles -u 3 node_modules/@cardapios/template/cypress/**/*.* ."
+  },
+  "dependencies": {
+    "@cardapios/template": "^9.3.2",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "copyfiles": "^2.3.0",
+    "cypress": "^4.9.0",
+    "netlify-cli": "^2.54.0"
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "menu": [
+    {
+      "title": "Lanches",
+      "items": [
+        {
+          "name": "Misto Quente",
+          "description": "Pão, presunto, queijo e maionese",
+          "price": 600
+        },
+        {
+          "name": "X-Burguer",
+          "description": "Pão, hambúrguer, queijo e maionese",
+          "price": 800
+        },
+        {
+          "name": "Bauru",
+          "description": "Pão, queijo, presunto, tomate e maionese",
+          "price": 800
+        },
+        {
+          "name": "Americano",
+          "description": " Pão, ovo, presunto, queijo e maionese",
+          "price": 800
+        },
+        {
+          "name": "Americano Salada",
+          "description": "Pão, ovo, presunto, queijo, alface, tomate e maionese",
+          "price": 1000
+        },
+        {
+          "name": "X-Salada",
+          "description": "Pão, hambúrguer, queijo, maionese, alface e tomate",
+          "price": 1000
+        },
+        {
+          "name": "X-Calabresa",
+          "description": "Pão, hambúrguer, calabresa, queijo e maionese",
+          "price": 1100
+        },
+        {
+          "name": "X-Calafrango",
+          "description": "Pão, hambúrguer, frango, calabresa, queijo e maionese",
+          "price": 1200
+        },
+        {
+          "name": "X-Calafrango Salada",
+          "description": "Pão, hambúrguer, frango, calabresa, queijo, maionese, alface e tomate",
+          "price": 1300
+        },
+        {
+          "name": "X-Bacon",
+          "description": "Pão, hambúrguer, bacon, queijo e maionese",
+          "price": 1200
+        },
+        {
+          "name": "X-Bacon Salada",
+          "description": "Pão, hambúrguer, bacon, alface, tomate, queijo e maionese",
+          "price": 1300
+        },
+        {
+          "name": "X-Egg",
+          "description": "Pão, hambúrguer, queijo e maionese, ovo",
+          "price": 1100
+        },
+        {
+          "name": "X-Egg Salada",
+          "description": "Pão, hambúrguer, ovo, alface, tomate e maionese",
+          "price": 1300
+        },
+        {
+          "name": "X-Egg Bacon",
+          "description": "Pão, hambúrguer, bacon, ovo, queijo e maionese",
+          "price": 1400
+        },
+        {
+          "name": "X-Egg Bacon Salada",
+          "description": "Pão, hambúrguer, bacon, ovo, alface, tomate, queijo e maionese",
+          "price": 1500
+        },
+        {
+          "name": "X-Frango",
+          "description": "Pão, hambúrguer, frango, queijo e maionese",
+          "price": 1150
+        },
+        {
+          "name": "X-Frango Salada",
+          "description": "Pão, hambúrguer, frango, queijo, alface, tomate e maionese",
+          "price": 1100
+        },
+        {
+          "name": "X-Frango Bacon Salada",
+          "description": "Pão, hambúrguer, frango, bacon, queijo, alface, tomate e maionese",
+          "price": 1400
+        },
+        {
+          "name": "X-Frango Bacon",
+          "description": "Pão, hambúrguer, frango, bacon, queijo e maionese",
+          "price": 1300
+        },
+        {
+          "name": "X-Tudo",
+          "description": "Pão, hambúrguer, queijo, bacon, calabresa, ovo, presunto, alface, tomate e maionese",
+          "price": 1700
+        },
+        {
+          "name": "X-Tudo Dogão",
+          "description": "Pão, hambúrguer, salsicha, queijo, maionese, vinagrete, milho, batata palha, bacon, frango, calabresa e ovo",
+          "price": 1900
+        },
+        {
+          "name": "Pão com linguiça",
+          "description": "Pão, linguiça de Paraibuna, queijo, maionese e vinagrete",
+          "price": 1900
+        }
+      ]
+    },
+    {
+      "title": "FRANGÃO",
+      "items": [
+        {
+          "name": "Frangão",
+          "description": "Pão, frango, queijo, maionese e vinagrete",
+          "price": 800
+        },
+        {
+          "name": "Frangão Bacon",
+          "description": "Pão, frango, bacon, queijo, maionese e vinagrete",
+          "price": 1000
+        },
+        {
+          "name": "Frangão Salada",
+          "description": "Pão, frango, alface, queijo, maionese e vinagrete",
+          "price": 1000
+        },
+        {
+          "name": "Frangão Bacon Salada",
+          "description": "Pão, frango, alface, bacon, queijo, maionese e vinagrete",
+          "price": 1200
+        },
+        {
+          "name": "Frangão Especial",
+          "description": "Pão, frango, queijo, batata palha, milho e vinagrete",
+          "price": 1200
+        }
+      ]
+    },
+    {
+      "title": "BOI RALADO",
+      "items": [
+        {
+          "name": "Boi Ralado",
+          "description": "Pão, carne moída, queijo, vinagrete e maionese",
+          "price": 1000
+        },
+        {
+          "name": "Boi Ralado Bacon",
+          "description": "Pão, carne moída, bacon, queijo, vinagrete e maionese",
+          "price": 1200
+        },
+        {
+          "name": "Boi Ralado Salada",
+          "description": "Pão, carne moída, queijo, vinagrete, alface e maionese",
+          "price": 1200
+        },
+        {
+          "name": "Boi Ralado Bacon Salada",
+          "description": "Pão, carne moída, bacon, queijo, vinagrete, alface e maionese",
+          "price": 1300
+        },
+        {
+          "name": "Boi Ralado Especial",
+          "description": "Pão, carne moída, queijo, batata palha, milho, alface, vinagrete e maionese",
+          "price": 1400
+        }
+      ]
+    },
+    {
+      "title": "Hot Dogs",
+      "items": [
+        {
+          "name": "Hot-Dog",
+          "description": "Pão, salsicha, vinagrete, milho, batata palha e maionese",
+          "price": 600
+        },
+        {
+          "name": "X-Dog",
+          "description": "Pão, salsicha, queijo, vinagrete, milho, batata palha, maionese",
+          "price": 800
+        },
+        {
+          "name": "X-Dog Bacon",
+          "description": "Pão, salsicha, queijo, bacon, vinagrete, milho, batata palha, maionese",
+          "price": 900
+        },
+        {
+          "name": "X-Dog Frango",
+          "description": "Pão, salsicha, queijo, frango, vinagrete, milho, batata palha, maionese",
+          "price": 900
+        },
+        {
+          "name": "X-Dog Calabresa",
+          "description": "Pão, salsicha, queijo, calabresa, vinagrete, milho, batata palha, maionese",
+          "price": 900
+        },
+        {
+          "name": " X-Dogão",
+          "description": "Pão,o salsicha, queijo, calabresa, frango, bacon, vinagrete, milho, batata palha e maionese",
+          "price": 1100
+        }
+      ]
+    },
+    {
+      "title": "Açaí",
+      "items": [
+        {
+          "name": "250ml",
+          "description": "Açaí",
+          "price": 600
+        },
+        {
+          "name": "300ml",
+          "description": "Açaí",
+          "price": 700
+        },
+        {
+          "name": "500ml",
+          "description": "Açaí",
+          "price": 900
+        },
+        {
+          "name": "700ml",
+          "description": "Açaí",
+          "price": 1200
+        }
+      ]
+    },
+    {
+      "title": "Bebidas",
+      "items": [
+        {
+          "name": "Suco de Laranja Natutal 500ml",
+          "description": "",
+          "price": 700
+        },
+        {
+          "name": "Suco de Laranja Natutal 1L",
+          "description": "",
+          "price": 1300
+        }
+      ]
+    },
+    {
+      "title": "Fritas",
+      "items": [
+        {
+          "name": "Fritas com Queijo",
+          "description": "",
+          "price": 2200
+        },
+        {
+          "name": "Fritas com Calabresa",
+          "description": "",
+          "price": 2200
+        },
+        {
+          "name": "Fritas com Bacon",
+          "description": "",
+          "price": 2200
+        },
+        {
+          "name": "Fritas",
+          "description": "",
+          "price": 1800
+        }
+      ]
+    },
+    {
+      "title": "Refrigerantes",
+      "items": [
+        {
+          "name": "Coca-Cola 200ml",
+          "description": "",
+          "price": 250
+        },
+        {
+          "name": "Coca-Cola 350ml",
+          "description": "",
+          "price": 450
+        },
+        {
+          "name": "Coca-Cola 600ml",
+          "description": "",
+          "price": 650
+        },
+        {
+          "name": "Coca-Cola 2L",
+          "description": "",
+          "price": 1000
+        },
+        {
+          "name": "Coca-Cola 2,5L",
+          "description": "",
+          "price": 1100
+        },
+        {
+          "name": "Guaraná 200ml",
+          "description": "",
+          "price": 250
+        },
+        {
+          "name": "Guaraná 350ml",
+          "description": "",
+          "price": 400
+        },
+        {
+          "name": "Guaraná 600ml",
+          "description": "",
+          "price": 500
+        },
+        {
+          "name": "Guaraná 2L",
+          "description": "",
+          "price": 900
+        }
+      ]
+    }
+  ]
+}
