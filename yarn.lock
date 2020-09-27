@@ -1192,10 +1192,10 @@
   resolved "https://registry.yarnpkg.com/@bugsnag/safe-json-stringify/-/safe-json-stringify-5.0.0.tgz#1c39847968b52f5c08b7c76754406f9d4446b292"
   integrity sha512-EdGnA7n2UmX9Z0e2tIU0biKz8tCgtjbY69KoyH3yiMzm7Q9sriIlN9bZjqhTOKzM0GdLSGrkyKWif08xWKyucA==
 
-"@cardapios/template@^9.3.3":
-  version "9.3.3"
-  resolved "https://npm.pkg.github.com/download/@cardapios/template/9.3.3/de8cfd10b529c7908b8bdd08c5b1265eb960a3a1cacb2ebe766c0c779eb4ddce#49d93ed4212775ff88bb2a1045b6291764f2f630"
-  integrity sha512-gdYGCalURnpEzfOcsMA+q13CovYxsTwnhIMsyRUq/pZqPf1DK7QyIEdHLPhv65y7rvh/TRPjeS4UAtojQJwOxA==
+"@cardapios/template@^9.3.4":
+  version "9.3.4"
+  resolved "https://npm.pkg.github.com/download/@cardapios/template/9.3.4/4c8f8ef9fefedacabbd522365026735e9e9ce3a8368c210024c50ae70770ea56#48a2cf558cf3edb0915bda9bdbfadf8ea1bcbf26"
+  integrity sha512-AB72Aca9eagr3fFMRxXgZ8AwkVBYiiNOSy0MDZcx9hcZa58ig93Hnj8yI/KzdYJ2aADTB/unBgNZQJzt59IWXg==
   dependencies:
     "@material-ui/core" "^4.10.2"
     "@material-ui/icons" "^4.9.1"
