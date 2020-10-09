@@ -12,7 +12,7 @@
     "postbuild": "copyfiles -f node_modules/@cardapios/template/cypress.json . && copyfiles -u 3 node_modules/@cardapios/template/cypress/**/*.* ."
   },
   "dependencies": {
-    "@cardapios/template": "^9.3.4",
+    "@cardapios/template": "^9.4.1",
     "next": "^9.5.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
