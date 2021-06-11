@@ -20,6 +20,6 @@
   "devDependencies": {
     "copyfiles": "^2.3.0",
     "cypress": "^4.9.0",
-    "netlify-cli": "^2.54.0"
+    "netlify-cli": "^3.37.14"
   }
 }
